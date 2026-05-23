@@ -16,12 +16,6 @@ const TYPE_LABELS = {
   otro: "Otro"
 };
 
-const STATUS_BADGE = {
-  done: "badge-done",
-  upcoming: "badge-upcoming",
-  today: "badge-today"
-};
-
 const EMPTY_FORM = {
   type: "consulta",
   title: "",
