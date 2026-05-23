@@ -80,7 +80,6 @@ export default function AppointmentsTab({ appointments, today }) {
   };
 
   const isToday = (dateStr) => dateStr === today;
-  const isPast = (dateStr) => dateStr < today;
 
   return (
     <div>
