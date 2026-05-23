@@ -2,7 +2,6 @@
 // You can call seedData() from the browser console or from App.js temporarily
 
 import { db } from "./firebase";
-import { collection, doc, setDoc } from "firebase/firestore";
 
 export const initialAppointments = [
   // ── REALIZADOS ──
